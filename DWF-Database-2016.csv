@@ -1,4 +1,6 @@
 "DWF_ID","DATE_ASSIGNED","DATE_PUBLIC","REQUESTER","ASSIGNER","REPLACED_BY","VERSION","LAST_UPDATE","STATE","TITLE"
+"DWF-2016-78001","2016-01-26","2016-01-26","darius.freamon@gmail.com","darius.freamon@gmail.com","",1,"","LIVE","KZ Broadband iSurf 1004 / 1008 Multiple Vulnerabilities"
+"DWF-2016-78002","2016-03-01","2016-03-01","darius.freamon@gmail.com","darius.freamon@gmail.com","",1,"","LIVE","Alcatel-Lucent OmniSwitch 6250 Switch sys_filesystem_info_si.html Multiple Parameter Stored XSS"
 "DWF-2016-80000","2016-03-22","","","kurt@seifried.org","",1,"","RESERVED",""
 "DWF-2016-89000","2016-03-09","2016-03-09","patrick@puiterwijk.org","patrick@puiterwijk.org","",1,"","LIVE",""
 "DWF-2016-89001","2016-03-09","2016-02-09","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","LIVE",""
