@@ -13,3 +13,4 @@
 "DWF-2015-77013","2015-09-11","2015-09-11","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in wordpress plugin csv2wpec-coupon v1.1"
 "DWF-2015-77012","2015-09-15","2015-09-15","larry0@me.com","larry0@me.com","","1","","LIVE","Local File Inclusion Vulnerability in mypixs v0.3 wordpress plugin"
 "DWF-2015-77004","2015-07-11","2015-07-11","larry0@me.com","larry0@me.com","","1","","LIVE","XSS in filedownload v1.4 wordpress plugin"
+"DWF-2015-78000","2015-09-10","2015-09-10","darius.freamon@gmail.com","darius.freamon@gmail.com","","1","","LIVE","Barix Streaming Client /setup.cgi S517 Parameter XSS"
